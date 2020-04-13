@@ -12,7 +12,6 @@ automates the work needed to create the data used as an input to the provided ch
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 class ClassicSimulator():
 
